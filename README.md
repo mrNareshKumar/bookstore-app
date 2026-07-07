@@ -1,4 +1,4 @@
-# BookNest Interactive Bookstore
+# BookNest Interactive Bookstore : https://mrnareshkumar.github.io/bookstore-app/
 
 BookNest is a ReactJS bookstore application built for the assignment requirements. Users can browse books, search and filter the catalog, open book detail pages, add and remove cart items, sign in with a local demo account, and place an order through checkout.
 
